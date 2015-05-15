@@ -56,7 +56,7 @@
       <linea>Reposacabezas móvil</linea>
       <linea>Tres plazas</linea>
       <linea>Regalo de cojines a juego</linea>
-      <linea>Garantía de 1 año.</linea>
+      <linea>Garantía de 4 años.</linea>
     </caracteristicas>
     <opciones nombre="color" tipo="unica">
       <opcion valor="verde"/>
@@ -91,7 +91,7 @@
     <precio moneda="euro">1250</precio>
   </producto>
   <producto>
-    <codigo>1313</codigo>
+    <codigo>1413</codigo>
     <cantidad>6</cantidad>
     <articulo>Sofá</articulo>
     <seccion>Muebles</seccion>
@@ -119,7 +119,7 @@
     <marca>Daewoo</marca>
     <modelo>DW SplitFire</modelo>
     <caracteristicas>
-      <linea>28"</linea>
+      <linea>30"</linea>
       <linea>Teletexto</linea>
       <linea>99 canales</linea>
       <linea>Sonido estéreo</linea>
@@ -145,7 +145,7 @@
       <linea>199 canales</linea>
       <linea>Sonido estéreo</linea>
       <linea>Euroconector</linea>
-      <linea>Garantía de 2 años.</linea>
+      <linea>Garantía de3 años.</linea>
       <linea>
         <url etiqueta="Fabricante: ">http://www.sanyo.es</url>
       </linea>
@@ -170,9 +170,9 @@
     </caracteristicas>
     <opciones nombre="color" tipo="unica">
       <opcion valor="blanco"/>
-      <opcion valor="azul"/>
+      <opcion valor="rojo"/>
       <opcion valor="negro"/>
-      <opcion valor="gris"/>
+      <opcion valor="amarillo"/>
     </opciones>
     <opciones nombre="Incluir fijador cámara" tipo="si_no">
       <opcion valor="Si"/>
